@@ -2,6 +2,10 @@
 
 **Hybrid sprint bringing together contributors from Bioconductor, Galaxy, Nextflow, nf-core, WDL and related workflow communities.**
 
+## Expressions of interest are OPEN !
+
+Fill the **Expression of Interest form** (<https://forms.cloud.microsoft/e/PxnAutr3JG>) as soon as possible, to help us plan the event and ensure the best experience for both in-person and remote participants.
+
 ## Event details
 
 * **When:** 4 February 2027
@@ -33,8 +37,8 @@ We'll also set aside time to reflect on the outcomes of the sprint, discuss thei
 
 The sprint will be run as a **hybrid** event, with opportunities for both in-person and remote participation.
 
-Those interested in participating are encouraged to complete the Expression of Interest form (link coming soon).
-<!-- Those interested in participating are encouraged to complete the Expression of Interest form (link coming soon), join the Zulip channel, and introduce themselves. -->
+<!-- Those interested in participating are encouraged to complete the Expression of Interest form (link coming soon).-->
+Those interested in participating are encouraged to complete the [Expression of Interest form](https://forms.cloud.microsoft/e/PxnAutr3JG), join the [Bioconductor Zulip chat](chat.bioconductor.org), and introduce themselves on the event's [introductions](https://community-bioc.zulipchat.com/#narrow/channel/650875-biofair2027-biocjobs-sprint/topic/introductions/with/643169772) topic.
 
 ## Goals
 
@@ -58,9 +62,9 @@ Opportunities to contribute to:
 
 _Interested in participating?_
 
-Fill the **Expression of Interest form** (link coming soon) as soon as possible, to help us plan the event and ensure the best experience for both in-person and remote participants.
+Fill the **Expression of Interest form** (<https://forms.cloud.microsoft/e/PxnAutr3JG>) as soon as possible, to help us plan the event and ensure the best experience for both in-person and remote participants.
 
-Join the Bioconductor channel `#biofair2027-workflow-sprint` (coming soon) on the [Bioconductor Zulip chat](chat.bioconductor.org).
+Join the [Bioconductor Zulip chat](chat.bioconductor.org) and the channel [#biofair2027-workflow-sprint](https://community-bioc.zulipchat.com/#narrow/channel/650875-biofair2027-biocjobs-sprint), where you can join the [Bioconductor Zulip chat](chat.bioconductor.org), and introduce yourself on the event's [introductions](https://community-bioc.zulipchat.com/#narrow/channel/650875-biofair2027-biocjobs-sprint/topic/introductions/with/643169772) topic.
 
 We welcome participation from contributors and community members across Bioconductor, Galaxy, Nextflow, nf-core, WDL and related workflow ecosystems.
 
@@ -75,11 +79,17 @@ Further details will be added closer to the event.
 
 ## Communication
 
-Main discussions take place in the Bioconductor Zulip channel:
+Bioconductor uses _Zulip_, a freely accessible, open-source chat platform, for community discussion, brainstorming, coordination, introductions, announcements, mentoring, working groups, and event planning.
 
-`#biofair2027-workflow-sprint` (link coming soon)
+New users can sign up at <https://chat.bioconductor.org/>.
+See [Using the Bioconductor Zulip chat](https://bioconductor.github.io/bioconductor-community-handbook/guides/communication/using_the_zulip_chat.html) for an introduction to channels, topics, and getting started.
 
-Join the Bioconductor Zulip community at <chat.bioconductor.org>
+Main discussions for this event take place in the Bioconductor Zulip channel: [#biofair2027-workflow-sprint](https://community-bioc.zulipchat.com/#narrow/channel/650875-biofair2027-biocjobs-sprint)
+
+In that channel, threads of conversations are organised as _topics_, for instance:
+
+- Use [expressions-of-interest](https://community-bioc.zulipchat.com/#narrow/channel/650875-biofair2027-biocjobs-sprint/topic/expression-of-interest/with/636897467) to ask any question about the event before registering.
+- Use [introductions](https://community-bioc.zulipchat.com/#narrow/channel/650875-biofair2027-biocjobs-sprint/topic/introductions/with/643169772) to introduce yourself and get to know other participants ahead of the event!
 
 ## Outputs
 
@@ -87,7 +97,7 @@ Outputs produced during the sprint will be linked here after the event.
 
 ## Acknowledgements
 
-This sprint is connected to the BioFAIR Pathfinder project "Connecting Bioconductor, Galaxy, and nf-core: FAIR, AI-ready workflows and training for single-cell analysis", led by Kevin Rue-Albrecht.
+This sprint is connected to the [BioFAIR Pathfinder project](https://biofair.uk/biofair-funded-pathfinder-projects/) **Connecting Bioconductor, Galaxy, and nf-core: FAIR, AI-ready workflows and training for single-cell analysis**, led by Kevin Rue-Albrecht.
 
 The sprint brings together contributors from multiple international open-source communities, including Bioconductor, Galaxy, Nextflow, nf-core and WDL, to improve workflow interoperability, reproducibility and FAIR practices.
 
